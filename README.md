@@ -1,7 +1,7 @@
 # Better Home
 - - -
 
-##[DEMO](https://github.com/jsteenb2/better_home/blob/master/demo.md)
+##[DEMO](https://github.com/philipcolejohnson/better_home/blob/master/demo.md)
 ##[DEPLOYED APP](https://boiling-eyrie-10872.herokuapp.com)
 
 # Project Walkthrough
